@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+
+.vs/CSCI262-Assignment3/v15/*
